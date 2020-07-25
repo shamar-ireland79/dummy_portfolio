@@ -1,0 +1,149 @@
+body{
+    margin: 0; 
+    text-align: center;
+    background: rgb(9,133,205);
+    background: radial-gradient(circle, rgba(9,133,205,1) 0%, rgba(9,127,196,1) 0%, rgba(7,92,142,1) 0%, rgba(4,48,73,1) 0%, rgba(1,10,13,1) 84%);
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: 0;
+    font-size: 5rem;
+    font-family: 'Oleo Script', cursive;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: 'Itim', cursive;
+    font-weight: normal;
+    align-items: center;
+}
+.h2-color{
+    color:rgb(148, 145, 141);
+    
+}
+.pro{
+    color:  rgb(163, 53, 53);    
+}
+p{
+    color: rgb(189, 185, 185);
+}
+.top{
+    background: rgb(9,133,205);
+    background: radial-gradient(circle, rgba(9,133,205,1) 0%, rgba(9,127,196,1) 0%, rgba(7,92,142,1) 0%, rgba(4,48,73,1) 0%, rgba(1,10,13,1) 84%);
+    border: 10px;
+    /* padding: 20px; */
+}
+.bootstrap-logo{
+    height: 120px;
+    width: 120px;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+.javascript-logo{
+    height: 120px;
+    width: 120px;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+
+.middle-container{
+    margin:100px 0;
+    padding: 50px 0 20px;
+    border-bottom: color black 50px ;
+
+}
+.bottom-container{
+    background-color: black;
+    margin-top: 50px 0 20px;
+    padding-bottom: 60px;
+    padding-top: 50px;
+}
+.pro{
+    text-decoration: underline;
+}
+.world{
+    height: 60%;
+    width: 74%;
+    position: relative;
+    left: 2%;
+    align-content: center;
+    padding-top: 60px; 
+}
+.top-rocket{
+    padding: 40px;
+    position: relative;
+    left: 30%;
+    height: 110px;
+    width: 110px;
+}
+.bottom-rocket{
+    position: absolute;
+    height: 95px;
+    width: 95px;
+    bottom: 370px;
+    left: 15%;
+}
+.skills{
+    width: 40%;
+    margin: 100px auto 100px auto;
+}
+.skill-row1{
+    text-align: left;
+}
+.html-logo{
+    float: left;
+}
+.skill-row2{
+    text-align: left;
+}
+.css-logo{
+    float: right;
+}
+.skill-row3{
+    text-align: left;
+}
+.bootstrap-logo{
+    float: left;
+    padding-right: 20px;
+}
+.skill-row4{
+    text-align: left;
+}
+.javascript-logo{
+    float: right;
+}
+.contact-me{
+    color: rgb(189, 185, 185);
+    padding: auto;
+}
+.name-date{
+    color: rgb(189, 185, 185);
+}
+/* .footer-link1{
+    color: rgb(189, 185, 185);
+}
+.footer-link2{
+    color: rgb(189, 185, 185);
+} */
+.btn{
+    color: rgb(189, 185, 185);
+}
+.profile{
+    width: 30%;
+    margin: auto;
+}
+hr{
+    border: dotted red 4px;
+    border-bottom: none;
+    width: 35%;
+    margin:  100px auto 100px auto;
+}
+a{
+    color:  rgb(184, 46, 46);
+}
+mark{
+    background-color: rgb(148, 145, 141);
+    
+}
+.profile{
+    align-items: center;
+}
