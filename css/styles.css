@@ -125,7 +125,10 @@ p{
     color: rgb(189, 185, 185);
 } */
 .btn{
-    color: rgb(189, 185, 185);
+    color: red;
+    padding-right: 10px;
+    font-weight: bolder;
+    font-family: sans-serif;
 }
 .profile{
     width: 30%;
@@ -138,7 +141,7 @@ hr{
     margin:  100px auto 100px auto;
 }
 a{
-    color:  rgb(184, 46, 46);
+    color:  red;
 }
 mark{
     background-color: rgb(148, 145, 141);
@@ -147,3 +150,37 @@ mark{
 .profile{
     align-items: center;
 }
+.footer-link1{
+    padding-right: 10px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.footer-link2{
+    padding-right: 10px;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.footer-link1:hover{
+    color: rgb(148, 145, 141);
+}
+.footer-link2:hover{
+    color: rgb(148, 145, 141);
+}
+.btn:hover{
+    color: rgb(148, 145, 141);
+}
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
