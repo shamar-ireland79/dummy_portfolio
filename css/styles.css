@@ -1,6 +1,7 @@
 body{
     margin: 0; 
     text-align: center;
+    text-size-adjust: 80%;
     background: rgb(9,133,205);
     background: radial-gradient(circle, rgba(9,133,205,1) 0%, rgba(9,127,196,1) 0%, rgba(7,92,142,1) 0%, rgba(4,48,73,1) 0%, rgba(1,10,13,1) 84%);
 }
@@ -11,10 +12,14 @@ h1{
     font-family: 'Oleo Script', cursive;
 }
 h2{
-    font-size: 2.5rem;
+    font-size: 4em;
+    color: red;
     font-family: 'Itim', cursive;
     font-weight: normal;
     align-items: center;
+}
+h3{
+    color: white;
 }
 .h2-color{
     color:rgb(148, 145, 141);
@@ -25,6 +30,7 @@ h2{
 }
 p{
     color: rgb(189, 185, 185);
+    /* font-size: ; */
 }
 .top{
     background: rgb(9,133,205);
